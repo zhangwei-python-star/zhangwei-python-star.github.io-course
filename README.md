@@ -1,2 +1,2 @@
-# zhangwei-python-star.github.io-course
+# zhangwei-python-star.github.io
 my
